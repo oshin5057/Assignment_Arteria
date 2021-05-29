@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AssignmentArteria</string>
+    <string name="delete">Delete</string>
+    <string name="fragment_one">Fragment 1</string>
+    <string name="fragment_two">Fragment 2</string>
+    <string name="fragment_three">Fragment 3</string>
+    <string name="fragment">Fragment</string>
+    <string name="text">Text</string>
+    <string name="save">Save</string>
+
+    <string name="add_note">Add Note</string>
+    <string name="error_with_deleting_note">Error with deleting note</string>
+    <string name="note_deleted">Note Deleted</string>
+    <string name="error_with_saving_notes">Error with saving note</string>
+    <string name="note_saved">Note Saved</string>
+</resources>
